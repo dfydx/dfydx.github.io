@@ -1,15 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dfydx.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-08-14T11:29:28.998Z</updated>
+    <title>刘聚骋的奇奇怪怪的网站</title>
+    <updated>2021-08-14T11:51:58.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dfydx.github.io"/>
     <link rel="self" href="https://dfydx.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>我曾踏足山巅，也曾进入低谷，二者都让我受益良多。</subtitle>
     <logo>https://dfydx.github.io/images/avatar.png</logo>
     <icon>https://dfydx.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 刘聚骋的奇奇怪怪的网站</rights>
+    <entry>
+        <title type="html"><![CDATA[冷知识第六期]]></title>
+        <id>https://dfydx.github.io/post/leng-zhi-shi-di-liu-qi/</id>
+        <link href="https://dfydx.github.io/post/leng-zhi-shi-di-liu-qi/">
+        </link>
+        <updated>2021-08-14T11:50:39.000Z</updated>
+        <content type="html"><![CDATA[<p>###马路上拦路的塑料制品叫<a href="https://baike.baidu.com/item/%E6%B0%B4%E9%A9%AC/49996065?fr=aladdin">水马</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冷知识第五期]]></title>
+        <id>https://dfydx.github.io/post/leng-zhi-shi-di-wu-qi/</id>
+        <link href="https://dfydx.github.io/post/leng-zhi-shi-di-wu-qi/">
+        </link>
+        <updated>2021-08-14T11:45:52.000Z</updated>
+        <content type="html"><![CDATA[<p>#在为奥运冠军加油的时候不会说加油的英语怎么办？<br>
+##add oil 加油<br>
+###把“加油”直译为“add oil”，这原本是个搞笑的中式英语，许多英文老师都会批评纠正，想不到后来流行日广，居然连最权威的<a href="https://www.oed.com/">OED</a>（牛津词典）也收了，承认它的合法地位。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冷知识第四期]]></title>
+        <id>https://dfydx.github.io/post/leng-zhi-shi-di-si-qi/</id>
+        <link href="https://dfydx.github.io/post/leng-zhi-shi-di-si-qi/">
+        </link>
+        <updated>2021-08-14T11:44:08.000Z</updated>
+        <content type="html"><![CDATA[<p>##nature calls</p>
+<p>本   义 自然召唤<br>
+在美国传统英语中<br>
+引申义 上厕所</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冷知识第三期]]></title>
+        <id>https://dfydx.github.io/post/leng-zhi-shi-di-san-qi/</id>
+        <link href="https://dfydx.github.io/post/leng-zhi-shi-di-san-qi/">
+        </link>
+        <updated>2021-08-14T11:43:28.000Z</updated>
+        <content type="html"><![CDATA[<p>##report 有 成绩单的意思</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韦达定理拓展]]></title>
+        <id>https://dfydx.github.io/post/wei-da-ding-li-tuo-zhan/</id>
+        <link href="https://dfydx.github.io/post/wei-da-ding-li-tuo-zhan/">
+        </link>
+        <updated>2021-08-14T11:42:09.000Z</updated>
+        <content type="html"><![CDATA[<p>(1)若两根互为相反数，则b=0</p>
+<p>(2)若两根互为倒数，则a=c</p>
+<p>(3)若一根为0，则c=0</p>
+<p>(4)若一根为-1，则 a-b+c=0</p>
+<p>(5)若一根为1，则 a+b+c=0</p>
+<p>(6)若a、c异号，方程一定有两个实数根</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冷知识第二期]]></title>
+        <id>https://dfydx.github.io/post/leng-zhi-shi-di-er-qi/</id>
+        <link href="https://dfydx.github.io/post/leng-zhi-shi-di-er-qi/">
+        </link>
+        <updated>2021-08-14T11:39:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>##冰桶挑战<br>
+渐冻症，冰桶挑战就是为了让人们感受且注意到它</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>##冰桶挑战<br>
+渐冻症，冰桶挑战就是为了让人们感受且注意到它</p>
+<!-- more -->
+<p>##人人冰桶挑战<br>
+泰坦尼克号 这是玩笑:-D，指的是最后人们都到北冰洋的海里[Doge]</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冷知识第一期]]></title>
+        <id>https://dfydx.github.io/post/leng-zhi-shi-di-yi-qi/</id>
+        <link href="https://dfydx.github.io/post/leng-zhi-shi-di-yi-qi/">
+        </link>
+        <updated>2021-08-14T11:37:01.000Z</updated>
+        <summary type="html"><![CDATA[<p>##Halloween<br>
+不是万圣节🎃，而是万圣节前夜</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>##Halloween<br>
+不是万圣节🎃，而是万圣节前夜</p>
+<!-- more -->
+<p>##soft drink<br>
+不是碳酸饮料，而是不含酒精的饮料</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://dfydx.github.io/post/guan-yu/</id>
